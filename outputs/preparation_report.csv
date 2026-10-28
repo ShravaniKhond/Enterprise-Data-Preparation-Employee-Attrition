@@ -1,0 +1,7 @@
+Metric,Value
+Rows after cleaning,1470
+Columns before encoding,35
+Missing values after cleaning,0
+Duplicate rows after cleaning,0
+Categorical columns encoded,9
+Columns after encoding,57
